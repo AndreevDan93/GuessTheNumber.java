@@ -28,6 +28,7 @@ public class GuesTheNumber {
             }
         }
         System.out.println("maybe + one more game?");
+        System.out.println("gogogogo");
     }
 
 
